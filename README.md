@@ -1,8 +1,11 @@
 # MongoDBReplicator
 
-The Node.js Starter demonstrates a simple, reusable Node.js web application based on the Express framework.
+The repository contains a Node.js application that can be used to efficiently replicate data from a source MongoDB instance to a secondary MongoDB instance.
 
-## Run the app locally
+## The application is ready to be deployed on IBM Bluemix
+
+
+## ...or you can run the app locally
 
 1. [Install Node.js][]
 2. Run `npm install` to install the app's dependencies
