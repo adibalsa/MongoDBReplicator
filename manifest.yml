@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: eu-gb.mybluemix.net
+  name: MongoDB Data Replicaor
+  host: MongoDB-Data-Replicaor
+  disk_quota: 1024M
